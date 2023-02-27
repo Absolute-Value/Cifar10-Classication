@@ -6,10 +6,10 @@ pytorchの復習のために作成した、Cifar10のCNN Classificationのプロ
 
 ## Train/ Val
 * Loss
-![](outputs/loss.png)
+  * ![](outputs/loss.png)
 
 * Accuracy
-![](outputs/acc.png)
+  * ![](outputs/acc.png)
 
 ## Test
 ```console
